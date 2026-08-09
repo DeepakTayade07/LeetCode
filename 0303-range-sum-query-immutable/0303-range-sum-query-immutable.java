@@ -1,9 +1,10 @@
 class NumArray {
     int[] prefix;
     public NumArray(int[] nums) {
-        prefix = new int[nums.length+1];
+        int n = nums.length;
+        prefix = new int[n+1];
         prefix[0] = 0;
-        for(int i=1; i<=nums.length; i++){
+        for(int i=1; i<=n; i++){
             prefix[i] = prefix[i-1] + nums[i-1];
         }
     }
