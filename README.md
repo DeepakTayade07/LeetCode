@@ -9,6 +9,7 @@ This is my leetcode que solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepakTayade07/LeetCode/tree/master/0035-search-insert-position) |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/DeepakTayade07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepakTayade07/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -38,4 +39,8 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/DeepakTayade07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
