@@ -8,6 +8,7 @@ This is my leetcode que solutions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepakTayade07/LeetCode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakTayade07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -59,4 +60,8 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakTayade07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
