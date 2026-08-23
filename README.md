@@ -15,6 +15,7 @@ This is my leetcode que solutions
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepakTayade07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepakTayade07/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
@@ -49,6 +50,7 @@ This is my leetcode que solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepakTayade07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@ This is my leetcode que solutions
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
