@@ -7,6 +7,7 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakTayade07/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DeepakTayade07/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepakTayade07/LeetCode/tree/master/0035-search-insert-position) |
@@ -66,6 +67,7 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakTayade07/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DeepakTayade07/LeetCode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
