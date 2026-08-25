@@ -20,6 +20,7 @@ This is my leetcode que solutions
 | [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepakTayade07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepakTayade07/LeetCode/tree/master/0704-binary-search) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DeepakTayade07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This is my leetcode que solutions
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DeepakTayade07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
