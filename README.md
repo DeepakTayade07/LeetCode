@@ -11,6 +11,7 @@ This is my leetcode que solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepakTayade07/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/DeepakTayade07/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakTayade07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepakTayade07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -33,6 +34,7 @@ This is my leetcode que solutions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DeepakTayade07/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakTayade07/LeetCode/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
