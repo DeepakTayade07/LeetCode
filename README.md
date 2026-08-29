@@ -72,6 +72,7 @@ This is my leetcode que solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakTayade07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DeepakTayade07/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/DeepakTayade07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -85,4 +86,8 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakTayade07/LeetCode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/DeepakTayade07/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
