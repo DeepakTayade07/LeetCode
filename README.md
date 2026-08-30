@@ -63,6 +63,7 @@ This is my leetcode que solutions
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DeepakTayade07/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@ This is my leetcode que solutions
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/DeepakTayade07/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -90,4 +92,5 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/DeepakTayade07/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/DeepakTayade07/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
