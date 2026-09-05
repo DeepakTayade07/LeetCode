@@ -12,6 +12,7 @@ This is my leetcode que solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepakTayade07/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/DeepakTayade07/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakTayade07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepakTayade07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -73,11 +74,13 @@ This is my leetcode que solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakTayade07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DeepakTayade07/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DeepakTayade07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/DeepakTayade07/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/DeepakTayade07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
