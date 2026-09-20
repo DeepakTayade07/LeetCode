@@ -21,6 +21,7 @@ This is my leetcode que solutions
 | [0560-subarray-sum-equals-k](https://github.com/DeepakTayade07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepakTayade07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepakTayade07/LeetCode/tree/master/0704-binary-search) |
+| [1528-shuffle-string](https://github.com/DeepakTayade07/LeetCode/tree/master/1528-shuffle-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepakTayade07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -98,6 +99,7 @@ This is my leetcode que solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepakTayade07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DeepakTayade07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DeepakTayade07/LeetCode/tree/master/0242-valid-anagram) |
+| [1528-shuffle-string](https://github.com/DeepakTayade07/LeetCode/tree/master/1528-shuffle-string) |
 ## String Matching
 |  |
 | ------- |
