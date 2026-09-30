@@ -40,6 +40,7 @@ This is my leetcode que solutions
 | ------- |
 | [0066-plus-one](https://github.com/DeepakTayade07/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakTayade07/LeetCode/tree/master/0069-sqrtx) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeepakTayade07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Newton's Method
 |  |
 | ------- |
@@ -119,4 +120,8 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepakTayade07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeepakTayade07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
