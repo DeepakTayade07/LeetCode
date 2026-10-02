@@ -18,6 +18,7 @@ class Solution {
             curr.next = prev;
             prev = curr;
             curr = next;
+            next = null;
         }
         return prev;
     }
