@@ -53,6 +53,7 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DeepakTayade07/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeepakTayade07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
