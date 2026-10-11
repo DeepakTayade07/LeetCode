@@ -82,6 +82,7 @@ This is my leetcode que solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeepakTayade07/LeetCode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DeepakTayade07/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepakTayade07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/DeepakTayade07/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -130,6 +131,7 @@ This is my leetcode que solutions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/DeepakTayade07/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeepakTayade07/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeepakTayade07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
