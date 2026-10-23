@@ -38,6 +38,7 @@ This is my leetcode que solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakTayade07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/DeepakTayade07/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DeepakTayade07/LeetCode/tree/master/0069-sqrtx) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeepakTayade07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -132,6 +133,7 @@ This is my leetcode que solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakTayade07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepakTayade07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/DeepakTayade07/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -146,6 +148,7 @@ This is my leetcode que solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeepakTayade07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeepakTayade07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DeepakTayade07/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DeepakTayade07/LeetCode/tree/master/0206-reverse-linked-list) |
